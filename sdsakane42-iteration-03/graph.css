@@ -1,0 +1,27 @@
+node {
+    text-alignment: under;
+    size: 30px;
+    fill-color: green;
+    shape: box;
+    stroke-mode:plain;
+    stroke-color: #ff0000;
+    text-color: cyan;
+    shadow-mode:plain;
+    shadow-colir: magenta;
+    text-alignment: above;
+    text-size:20px;
+    text-alignment: above;
+}
+
+edge{
+    shape: cubic-curve;
+    size: 5px;
+    fill-color: blue;
+    text-color: cyan;
+    text-mode: normal;
+    textstyle:italic;
+    text-alignment: above;
+    text-size: 15px;
+    arrow-image:dynamic;
+    shape:flow;
+}
